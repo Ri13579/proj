@@ -1,0 +1,77 @@
+body{
+margin: 0%;
+}
+
+h1{
+    margin: 0%;
+}
+
+.text{
+margin: 0%;
+padding-bottom: 27px;
+}
+
+header{
+    height: 187px; ;/*высота блока*/
+    background-color: rgb(112, 67, 163);/*цвет фона*/
+    color: rgb(255, 255, 255);/*цвет фона*/
+  text-align: center;
+    font-size: 40px;
+
+    background-image: url(https://kartin.papik.pro/uploads/posts/2023-07/thumbs/1688283577_kartin-papik-pro-p-kartinki-zvezdi-na-nebe-krasivie-18.jpg);
+    background-size: 50%;
+    background-position: top;
+
+    font-family: "comic sans Ms";
+
+    text-shadow: 3px 5px 20px black;
+}
+
+main{
+height: 100%;
+background-color: rgb(255, 255, 255);
+color: black;
+text-align: left;
+font-size: 39px;
+padding: 10px;
+
+text-shadow: 1px 5px 12px rgb(185, 185, 185);
+display: flex;
+}
+
+.left{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+    text-align: center;
+}
+
+footer{
+    height: 100%;/*высота болока*/
+    background-color: rgb(116, 80, 97);
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 20px;
+
+    background-image: url(https://srca.oboi.ws/wallpapers/big_5868_oboi_zvezdy.jpg);
+    background-size: 47%;
+    background-position: bottom;
+
+    text-shadow: 3px 5px 20px black;
+
+    padding-top: 20px;
+}
+
+.social img{
+    width: 74px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
